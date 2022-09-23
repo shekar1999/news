@@ -1,0 +1,22 @@
+<Window object at 0xb0f122fc (terminatorlib+window+Window at 0x9353260)> is not in registered window list
+PluginRegistry::load_plugins: Importing plugin __init__.py failed: 'module' object has no attribute 'AVAILABLE'
+<Window object at 0xb0f2f2fc (terminatorlib+window+Window at 0x87eb260)> is not in registered window list
+PluginRegistry::load_plugins: Importing plugin __init__.py failed: 'module' object has no attribute 'AVAILABLE'
+<Window object at 0xb0ee72fc (terminatorlib+window+Window at 0x98c1260)> is not in registered window list
+PluginRegistry::load_plugins: Importing plugin __init__.py failed: 'module' object has no attribute 'AVAILABLE'
+<Window object at 0xb0eae2fc (terminatorlib+window+Window at 0x866d260)> is not in registered window list
+PluginRegistry::load_plugins: Importing plugin __init__.py failed: 'module' object has no attribute 'AVAILABLE'
+<Window object at 0xb0f612fc (terminatorlib+window+Window at 0x8b2d260)> is not in registered window list
+PluginRegistry::load_plugins: Importing plugin __init__.py failed: 'module' object has no attribute 'AVAILABLE'
+<Window object at 0xb0ee72fc (terminatorlib+window+Window at 0x860f260)> is not in registered window list
+PluginRegistry::load_plugins: Importing plugin __init__.py failed: 'module' object has no attribute 'AVAILABLE'
+<Window object at 0xb0ed92fc (terminatorlib+window+Window at 0x9475260)> is not in registered window list
+PluginRegistry::load_plugins: Importing plugin __init__.py failed: 'module' object has no attribute 'AVAILABLE'
+<Window object at 0xb0eda2fc (terminatorlib+window+Window at 0x88b5260)> is not in registered window list
+PluginRegistry::load_plugins: Importing plugin __init__.py failed: 'module' object has no attribute 'AVAILABLE'
+<Window object at 0xb0ee72fc (terminatorlib+window+Window at 0x9539260)> is not in registered window list
+PluginRegistry::load_plugins: Importing plugin __init__.py failed: 'module' object has no attribute 'AVAILABLE'
+WARN  2022-09-22 22:17:25 unity <unknown>:0 Unable to fetch children: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.view' on object at path /org/ayatana/bamf/application/545253652
+
+<Window object at 0xb0ee72fc (terminatorlib+window+Window at 0x8a85260)> is not in registered window list
+PluginRegistry::load_plugins: Importing plugin __init__.py failed: 'module' object has no attribute 'AVAILABLE'

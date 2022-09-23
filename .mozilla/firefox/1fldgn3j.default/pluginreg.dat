@@ -1,0 +1,11 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version:0.19t:$
+Arch:x86-gcc3:$
+
+[PLUGINS]
+
+[INVALID]
+/usr/lib/jvm/java-8-oracle/jre/lib/i386/libnpjp2.so:$
+1521736061000:$

@@ -1,0 +1,25 @@
+logrotate state -- version 2
+"/home/seed/.cache/upstart/hud.log" 2022-9-22-18:26:18
+"/home/seed/.cache/upstart/indicator-printers.log" 2019-6-11-12:50:32
+"/home/seed/.cache/upstart/bamfdaemon.log" 2019-6-11-12:50:32
+"/home/seed/.cache/upstart/gnome-keyring.log" 2022-9-22-18:26:18
+"/home/seed/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_compiz.1000.crash.log" 2018-4-3-22:4:13
+"/home/seed/.cache/upstart/ssh-agent.log" 2022-9-22-18:26:18
+"/home/seed/.cache/upstart/indicator-sound.log" 2022-9-22-18:26:18
+"/home/seed/.cache/upstart/dbus.log" 2022-9-22-18:26:18
+"/home/seed/.cache/upstart/indicator-datetime.log" 2018-5-9-11:8:16
+"/home/seed/.cache/upstart/startxfce4.log" 2022-9-18-23:15:26
+"/home/seed/.cache/upstart/unity7.log" 2022-9-22-18:26:18
+"/home/seed/.cache/upstart/unity-panel-service.log" 2022-9-22-18:26:18
+"/home/seed/.cache/upstart/at-spi2-registryd.log" 2022-9-18-23:15:26
+"/home/seed/.cache/upstart/gpg-agent.log" 2022-9-22-18:26:18
+"/home/seed/.cache/upstart/unity-settings-daemon.log" 2022-9-22-18:26:18
+"/home/seed/.cache/upstart/update-notifier-cds.log" 2017-7-25-19:42:36
+"/home/seed/.cache/upstart/indicator-keyboard.log" 2018-5-1-0:3:56
+"/home/seed/.cache/upstart/indicator-session.log" 2019-6-11-11:45:0
+"/home/seed/.cache/upstart/update-notifier-crash-_var_crash__usr_lib_i386-linux-gnu_hud_hud-service.1000.crash.log" 2018-4-3-22:4:13
+"/home/seed/.cache/upstart/unity-gtk-module.log" 2022-9-18-23:15:26
+"/home/seed/.cache/upstart/window-stack-bridge.log" 2022-9-22-18:26:18
+"/home/seed/.cache/upstart/update-notifier-release.log" 2022-9-22-18:26:18
+"/home/seed/.cache/upstart/gnome-keyring-ssh.log" 2022-9-22-18:26:18
+"/home/seed/.cache/upstart/upstart-event-bridge.log" 2022-9-22-18:26:18

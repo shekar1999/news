@@ -1,0 +1,48 @@
+[global_config]
+  title_font = Monospace 16
+  title_transmit_bg_color = "#2cc1f0"
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#ffffff"
+    background_darkness = 0.68
+    background_image = /home/seed/Pictures/Wallpapers/desktop_background_grey.jpg
+    background_type = image
+    cursor_blink = False
+    cursor_color = "#4a4a4a"
+    font = Monospace 14
+    foreground_color = "#000000"
+    palette = "#2e3436:#cc0000:#4e9a06:#7f7029:#3465a4:#75507b:#06989a:#d3d7cf:#555753:#ef2929:#458a01:#a85019:#2c5178:#ad7fa8:#0fa9a9:#eeeeec"
+    scroll_background = False
+    use_system_font = False
+  [[Blue]]
+    background_color = "#ffffff"
+    background_darkness = 0.54
+    background_image = /home/seed/Pictures/Wallpapers/desktop_background_blue.png
+    background_type = image
+    cursor_color = "#656565"
+    font = Monospace 14
+    foreground_color = "#000000"
+    palette = "#2e3436:#cc0000:#4e9a06:#7f7029:#3465a4:#75507b:#06989a:#d3d7cf:#555753:#ef2929:#458a01:#a85019:#2c5178:#ad7fa8:#0fa9a9:#eeeeec"
+    scroll_background = False
+    use_system_font = False
+  [[Green]]
+    background_color = "#ffffff"
+    background_darkness = 0.65
+    background_image = /home/seed/Pictures/Wallpapers/desktop_background_green.png
+    background_type = image
+    cursor_color = "#656565"
+    font = Monospace 14
+    foreground_color = "#000000"
+    palette = "#2e3436:#cc0000:#294e05:#7f7029:#3465a4:#75507b:#06989a:#d3d7cf:#555753:#ef2929:#2a4511:#a85019:#2c5178:#ad7fa8:#0fa9a9:#eeeeec"
+    scroll_background = False
+    use_system_font = False

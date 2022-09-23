@@ -1,0 +1,22 @@
+[CLIENT] 0x1000021
+  [CLIENT_LEADER] 0x1000001
+  [RES_NAME] xfce4-session
+  [RES_CLASS] Xfce4-session
+  [WM_NAME] xfce4-session
+  [GEOMETRY] (798,331,324,318)
+  [GEOMETRY-MAXIMIZED] (798,331,324,318)
+  [SCREEN] 0
+  [DESK] 3
+  [FLAGS] 0x0
+[CLIENT] 0x2200004
+  [CLIENT_ID] 2504ade36-5a2c-4f23-82c0-6ee36630fc1b
+  [CLIENT_LEADER] 0x2200001
+  [RES_NAME] x-terminal-emulator
+  [RES_CLASS] X-terminal-emulator
+  [WM_NAME] None
+  [WM_COMMAND] (1) "x-terminal-emulator"
+  [GEOMETRY] (57,162,1432,524)
+  [GEOMETRY-MAXIMIZED] (57,162,1432,524)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x80
